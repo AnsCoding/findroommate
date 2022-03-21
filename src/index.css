@@ -25,11 +25,8 @@ code {
 
 .shadow {
   display: flex;
-  justify-content: space-around;
-}
-
-.p p {
-  font-size: 9px;
+  justify-content: space-between;
+  padding-bottom: 10px;
 }
 
 main {
@@ -66,11 +63,12 @@ a {
 
 .page b {
   color: #007aff;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .page p {
-  font-size: 25px;
+  font-size: 18px;
+  font-weight: 500;
 }
 
 .text-center {
@@ -250,18 +248,16 @@ form button {
 }
 
 button {
-  font-weight: 300;
-  text-align: center;
   cursor: pointer;
-  border: none;
-  color: var(--text-color-light);
-  background-color: var(--green);
+  border: 1px solid #5195e5;
+  color: #5195e5;
+  background-color: #e6f6fe;
   letter-spacing: 0.05em;
-  text-transform: uppercase;
   padding: 0.5em 1em;
   font-size: 0.8em;
   display: block;
   margin: 1em auto 0;
+  border-radius: 4px;
 }
 
 button.btn-outline {

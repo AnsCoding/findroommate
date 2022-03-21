@@ -29,12 +29,12 @@ export default function HomePage({ showLoader }) {
         <p>En roommate er mere end en lejer 😇</p>
         <input type="search" placeholder="Hvor søger du roommates?" onkeyup="search(this.value)" />
         <div className="shadow">
-          <div className="p">
+          <div>
             <p> Nyeste roommates</p>
           </div>
           <div>
             <button onClick={toggleModal} className="btn-modal">
-              open
+              <b>Filtrer</b>
             </button>
             {modal && (
               <div className="modal">
