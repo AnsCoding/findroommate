@@ -25,7 +25,8 @@ export default function HomePage({ showLoader }) {
   return (
     <section className="page">
       <section>
-        <b>FindRoommate</b>
+        <h1 className="b">FindRoommate</h1>
+
         <p>En roommate er mere end en lejer 😇</p>
         <input type="search" placeholder="Hvor søger du roommates?" onkeyup="search(this.value)" />
         <div className="shadow">

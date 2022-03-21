@@ -35,10 +35,9 @@ main {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 500;
-  letter-spacing: 0.1px;
-  text-align: center;
+  margin: 10px;
 }
 
 h2 {
@@ -61,14 +60,8 @@ a {
   padding: 1em;
 }
 
-.page b {
-  color: #007aff;
-  font-size: 18px;
-}
-
 .page p {
   font-size: 18px;
-  font-weight: 500;
 }
 
 .text-center {
@@ -206,13 +199,17 @@ nav a.active {
 
 .grid-container > article {
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
-  text-align: center;
   background-color: var(--white);
   transition: 0.5s;
   animation: fadeIn 0.5s;
   cursor: pointer;
   position: relative;
   border-radius: 30px;
+}
+
+.grid-container > article h2,
+p {
+  padding-left: 10px;
 }
 
 .grid-container > article:hover {

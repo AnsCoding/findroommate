@@ -9,7 +9,7 @@ export default function PostCard({ post }) {
   }
 
   return (
-    <article className="imagecir" onClick={handleClick}>
+    <article onClick={handleClick}>
       <UserAvatar uid={post.uid} />
       <img src={post.image} alt={post.title} />
 
