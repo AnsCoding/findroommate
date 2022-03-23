@@ -6,6 +6,7 @@ import PostCard from "../components/PostCard";
 export default function HomePage({ showLoader }) {
   const [posts, setPosts] = useState([]);
   const [modal, setModal] = useState(false);
+  const [searchTerm, setSearchTerm] = useState("");
   const toggleModal = () => {
     setModal(!modal);
   };
@@ -28,7 +29,13 @@ export default function HomePage({ showLoader }) {
         <h1 className="b">FindRoommate</h1>
 
         <p>En roommate er mere end en lejer 😇</p>
-        <input type="search" placeholder="Hvor søger du roommates?" onkeyup="search(this.value)" />
+        <input
+          type="search"
+          placeholder="Hvor søger du roommates?"
+          onChange={(event) => {
+            setSearchTerm(event.target.value);
+          }}
+        />
         <div className="shadow">
           <div>
             <p> Nyeste roommates</p>
@@ -55,9 +62,17 @@ export default function HomePage({ showLoader }) {
       </section>
 
       <section className="grid-container">
-        {posts.map((post) => (
-          <PostCard post={post} key={post.id} />
-        ))}
+        {posts
+          .filter((post) => {
+            if (searchTerm === "") {
+              return post;
+            } else if (post.title.toLowerCase().includes(searchTerm.toLocaleLowerCase())) {
+              return post;
+            }
+          })
+          .map((post) => (
+            <PostCard post={post} key={post.id} />
+          ))}
       </section>
     </section>
   );

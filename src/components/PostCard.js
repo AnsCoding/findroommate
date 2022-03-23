@@ -9,12 +9,15 @@ export default function PostCard({ post }) {
   }
 
   return (
-    <article onClick={handleClick}>
+    <article>
       <UserAvatar uid={post.uid} />
       <img src={post.image} alt={post.title} />
 
       <h2>{post.title}</h2>
       <p>{post.body}</p>
+      <button onClick={handleClick}>Edit</button>
     </article>
   );
 }
+
+

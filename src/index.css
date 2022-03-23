@@ -207,6 +207,10 @@ nav a.active {
   border-radius: 30px;
 }
 
+.grid-container > article:last-child {
+  margin-bottom: 4em;
+}
+
 .grid-container > article h2,
 p {
   padding-left: 10px;
