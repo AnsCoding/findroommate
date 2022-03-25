@@ -458,47 +458,6 @@ export default function ProfilePage({ showLoader }) {
 			<button className='btn-outline' onClick={handleSignOut}>
 				Sign Out
 			</button>
-
-			{/* <h2>Oprettelse</h2>
-			<form onSubmit={handleSubmit}>
-
-			
-
-				
-
-				
-
-
-
-
-				<label>
-					Skriv dine interesser i hashtags
-					<input
-						type='text'
-						value={interests}
-						onChange={(e) => setInterests(e.target.value)}
-						placeholder='#roommates #verdensfred'
-					/>
-				</label>
-
-				<label>
-					Email
-					<input
-						type='email'
-						value={email}
-						onChange={(e) => setEmail(e.target.value)}
-						name='email'
-						placeholder='Skriv din email'
-						disabled
-					/>
-				</label>
-
-				<p className='text-error'>{errorMessage}</p>
-				<button>Save User</button>
-			</form>
-			<button className='btn-outline' onClick={handleSignOut}>
-				Sign Out
-			</button> */}
 		</section>
 	);
 }
