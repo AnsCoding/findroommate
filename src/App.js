@@ -1,14 +1,15 @@
-import { Routes, Navigate, Route } from "react-router-dom";
-import Nav from "./components/Nav";
-import PostsPage from "./pages/PostsPage";
-import CreatePage from "./pages/CreatePage";
-import UpdatePage from "./pages/UpdatePage";
-import Loader from "./components/Loader";
-import { useState } from "react";
-import SignInPage from "./pages/SignInPage";
-import SignUpPage from "./pages/SignUpPage";
-import { getAuth, onAuthStateChanged } from "firebase/auth";
-import ProfilePage from "./pages/ProfilePage";
+import { Routes, Navigate, Route } from 'react-router-dom';
+import Nav from './components/Nav';
+import PostsPage from './pages/PostsPage';
+import CreatePage from './pages/CreatePage';
+import UpdatePage from './pages/UpdatePage';
+import Loader from './components/Loader';
+import { useState } from 'react';
+import SignInPage from './pages/SignInPage';
+import SignUpPage from './pages/SignUpPage';
+import { getAuth, onAuthStateChanged } from 'firebase/auth';
+import ProfilePage from './pages/ProfilePage';
+import CreateProfilePage from './pages/CreateProfilePage';
 
 function App() {
   const [showLoader, setShowLoader] = useState(true); // default value of the loader is true (loader displayed)
