@@ -1,0 +1,4416 @@
+{
+	"Byer": [
+		{
+			"postnummer": "800",
+			"by": "Høje Taastrup"
+		},
+		{
+			"postnummer": "900",
+			"by": "København C"
+		},
+		{
+			"postnummer": "917",
+			"by": "Københavns Pakkecent"
+		},
+		{
+			"postnummer": "960",
+			"by": "Udland"
+		},
+		{
+			"postnummer": "999",
+			"by": "København C"
+		},
+		{
+			"postnummer": "1000",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1050",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1051",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1052",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1053",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1054",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1055",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1056",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1057",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1058",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1059",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1060",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1061",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1062",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1063",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1064",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1065",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1066",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1067",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1068",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1069",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1070",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1071",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1072",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1073",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1074",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1092",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1093",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1095",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1098",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1100",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1101",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1102",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1103",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1104",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1105",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1106",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1107",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1110",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1111",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1112",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1113",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1114",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1115",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1116",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1117",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1118",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1119",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1120",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1121",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1122",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1123",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1124",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1125",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1126",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1127",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1128",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1129",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1130",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1131",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1140",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1147",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1148",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1150",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1151",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1152",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1153",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1154",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1155",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1156",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1157",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1158",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1159",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1160",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1161",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1162",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1164",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1165",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1166",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1167",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1168",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1169",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1170",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1171",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1172",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1173",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1174",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1175",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1200",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1201",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1202",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1203",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1204",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1205",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1206",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1207",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1208",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1209",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1210",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1211",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1213",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1214",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1215",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1216",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1217",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1218",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1219",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1220",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1221",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1240",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1250",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1251",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1253",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1254",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1255",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1256",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1257",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1259",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1260",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1261",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1263",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1264",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1265",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1266",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1267",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1268",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1270",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1271",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1291",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1300",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1301",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1302",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1303",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1304",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1306",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1307",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1308",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1309",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1310",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1311",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1312",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1313",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1314",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1315",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1316",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1317",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1318",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1319",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1320",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1321",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1322",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1323",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1324",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1325",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1326",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1327",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1328",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1329",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1350",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1352",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1353",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1354",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1355",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1356",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1357",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1358",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1359",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1360",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1361",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1362",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1363",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1364",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1365",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1366",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1367",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1368",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1369",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1370",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1371",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1400",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1401",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1402",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1403",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1406",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1407",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1408",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1409",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1410",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1411",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1412",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1413",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1414",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1415",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1416",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1417",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1418",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1419",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1420",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1421",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1422",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1423",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1424",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1425",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1426",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1427",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1428",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1429",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1430",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1431",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1432",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1433",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1434",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1435",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1436",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1437",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1438",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1439",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1440",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1441",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1448",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1450",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1451",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1452",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1453",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1454",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1455",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1456",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1457",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1458",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1459",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1460",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1462",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1463",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1464",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1466",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1467",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1468",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1470",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1471",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1472",
+			"by": "København K"
+		},
+		{
+			"postnummer": "1500",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1513",
+			"by": "Centraltastning"
+		},
+		{
+			"postnummer": "1532",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1533",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1550",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1551",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1552",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1553",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1554",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1555",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1556",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1557",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1558",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1559",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1560",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1561",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1562",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1563",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1564",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1566",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1567",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1568",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1569",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1570",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1571",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1572",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1573",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1574",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1575",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1576",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1577",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1592",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1599",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1600",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1601",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1602",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1603",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1604",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1606",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1607",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1608",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1609",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1610",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1611",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1612",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1613",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1614",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1615",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1616",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1617",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1618",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1619",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1620",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1621",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1622",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1623",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1624",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1630",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1631",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1632",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1633",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1634",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1635",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1650",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1651",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1652",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1653",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1654",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1655",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1656",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1657",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1658",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1659",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1660",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1661",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1662",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1663",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1664",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1665",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1666",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1667",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1668",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1669",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1670",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1671",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1672",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1673",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1674",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1675",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1676",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1677",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1699",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1700",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1701",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1702",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1703",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1704",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1705",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1706",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1707",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1708",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1709",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1710",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1711",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1712",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1714",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1715",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1716",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1717",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1718",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1719",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1720",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1721",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1722",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1723",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1724",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1725",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1726",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1727",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1728",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1729",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1730",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1731",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1732",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1733",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1734",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1735",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1736",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1737",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1738",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1739",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1749",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1750",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1751",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1752",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1753",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1754",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1755",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1756",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1757",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1758",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1759",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1760",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1761",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1762",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1763",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1764",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1765",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1766",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1770",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1771",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1772",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1773",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1774",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1775",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1777",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1780",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1785",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1786",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1787",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1790",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1799",
+			"by": "København V"
+		},
+		{
+			"postnummer": "1800",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1801",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1802",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1803",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1804",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1805",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1806",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1807",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1808",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1809",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1810",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1811",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1812",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1813",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1814",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1815",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1816",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1817",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1818",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1819",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1820",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1822",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1823",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1824",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1825",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1826",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1827",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1828",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1829",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1850",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1851",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1852",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1853",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1854",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1855",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1856",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1857",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1860",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1861",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1862",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1863",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1864",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1865",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1866",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1867",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1868",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1870",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1871",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1872",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1873",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1874",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1875",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1876",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1877",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1878",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1879",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1900",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1901",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1902",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1903",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1904",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1905",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1906",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1908",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1909",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1910",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1911",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1912",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1913",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1914",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1915",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1916",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1917",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1920",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1921",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1922",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1923",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1924",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1925",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1926",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1927",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1928",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1950",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1951",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1952",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1953",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1954",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1955",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1956",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1957",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1958",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1959",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1960",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1961",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1962",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1963",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1964",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1965",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1966",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1967",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1970",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1971",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1972",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1973",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "1974",
+			"by": "Frederiksberg C"
+		},
+		{
+			"postnummer": "2000",
+			"by": "Frederiksberg"
+		},
+		{
+			"postnummer": "2100",
+			"by": "København Ø"
+		},
+		{
+			"postnummer": "2150",
+			"by": "Nordhavn"
+		},
+		{
+			"postnummer": "2200",
+			"by": "København N"
+		},
+		{
+			"postnummer": "2300",
+			"by": "København S"
+		},
+		{
+			"postnummer": "2400",
+			"by": "København NV"
+		},
+		{
+			"postnummer": "2450",
+			"by": "København SV"
+		},
+		{
+			"postnummer": "2500",
+			"by": "Valby"
+		},
+		{
+			"postnummer": "2600",
+			"by": "Glostrup"
+		},
+		{
+			"postnummer": "2605",
+			"by": "Brøndby"
+		},
+		{
+			"postnummer": "2610",
+			"by": "Rødovre"
+		},
+		{
+			"postnummer": "2620",
+			"by": "Albertslund"
+		},
+		{
+			"postnummer": "2625",
+			"by": "Vallensbæk"
+		},
+		{
+			"postnummer": "2630",
+			"by": "Taastrup"
+		},
+		{
+			"postnummer": "2635",
+			"by": "Ishøj"
+		},
+		{
+			"postnummer": "2640",
+			"by": "Hedehusene"
+		},
+		{
+			"postnummer": "2650",
+			"by": "Hvidovre"
+		},
+		{
+			"postnummer": "2660",
+			"by": "Brøndby Strand"
+		},
+		{
+			"postnummer": "2665",
+			"by": "Vallensbæk Strand"
+		},
+		{
+			"postnummer": "2670",
+			"by": "Greve"
+		},
+		{
+			"postnummer": "2680",
+			"by": "Solrød Strand"
+		},
+		{
+			"postnummer": "2690",
+			"by": "Karlslunde"
+		},
+		{
+			"postnummer": "2700",
+			"by": "Brønshøj"
+		},
+		{
+			"postnummer": "2720",
+			"by": "Vanløse"
+		},
+		{
+			"postnummer": "2730",
+			"by": "Herlev"
+		},
+		{
+			"postnummer": "2740",
+			"by": "Skovlunde"
+		},
+		{
+			"postnummer": "2750",
+			"by": "Ballerup"
+		},
+		{
+			"postnummer": "2760",
+			"by": "Måløv"
+		},
+		{
+			"postnummer": "2765",
+			"by": "Smørum"
+		},
+		{
+			"postnummer": "2770",
+			"by": "Kastrup"
+		},
+		{
+			"postnummer": "2791",
+			"by": "Dragør"
+		},
+		{
+			"postnummer": "2800",
+			"by": "Kongens Lyngby"
+		},
+		{
+			"postnummer": "2820",
+			"by": "Gentofte"
+		},
+		{
+			"postnummer": "2830",
+			"by": "Virum"
+		},
+		{
+			"postnummer": "2840",
+			"by": "Holte"
+		},
+		{
+			"postnummer": "2850",
+			"by": "Nærum"
+		},
+		{
+			"postnummer": "2860",
+			"by": "Søborg"
+		},
+		{
+			"postnummer": "2870",
+			"by": "Dyssegård"
+		},
+		{
+			"postnummer": "2880",
+			"by": "Bagsværd"
+		},
+		{
+			"postnummer": "2900",
+			"by": "Hellerup"
+		},
+		{
+			"postnummer": "2920",
+			"by": "Charlottenlund"
+		},
+		{
+			"postnummer": "2930",
+			"by": "Klampenborg"
+		},
+		{
+			"postnummer": "2942",
+			"by": "Skodsborg"
+		},
+		{
+			"postnummer": "2950",
+			"by": "Vedbæk"
+		},
+		{
+			"postnummer": "2960",
+			"by": "Rungsted Kyst"
+		},
+		{
+			"postnummer": "2970",
+			"by": "Hørsholm"
+		},
+		{
+			"postnummer": "2980",
+			"by": "Kokkedal"
+		},
+		{
+			"postnummer": "2990",
+			"by": "Nivå"
+		},
+		{
+			"postnummer": "3000",
+			"by": "Helsingør"
+		},
+		{
+			"postnummer": "3050",
+			"by": "Humlebæk"
+		},
+		{
+			"postnummer": "3060",
+			"by": "Espergærde"
+		},
+		{
+			"postnummer": "3070",
+			"by": "Snekkersten"
+		},
+		{
+			"postnummer": "3080",
+			"by": "Tikøb"
+		},
+		{
+			"postnummer": "3100",
+			"by": "Hornbæk"
+		},
+		{
+			"postnummer": "3120",
+			"by": "Dronningmølle"
+		},
+		{
+			"postnummer": "3140",
+			"by": "Ålsgårde"
+		},
+		{
+			"postnummer": "3150",
+			"by": "Hellebæk"
+		},
+		{
+			"postnummer": "3200",
+			"by": "Helsinge"
+		},
+		{
+			"postnummer": "3210",
+			"by": "Vejby"
+		},
+		{
+			"postnummer": "3220",
+			"by": "Tisvildeleje"
+		},
+		{
+			"postnummer": "3230",
+			"by": "Græsted"
+		},
+		{
+			"postnummer": "3250",
+			"by": "Gilleleje"
+		},
+		{
+			"postnummer": "3300",
+			"by": "Frederiksværk"
+		},
+		{
+			"postnummer": "3310",
+			"by": "Ølsted"
+		},
+		{
+			"postnummer": "3320",
+			"by": "Skævinge"
+		},
+		{
+			"postnummer": "3330",
+			"by": "Gørløse"
+		},
+		{
+			"postnummer": "3360",
+			"by": "Liseleje"
+		},
+		{
+			"postnummer": "3370",
+			"by": "Melby"
+		},
+		{
+			"postnummer": "3390",
+			"by": "Hundested"
+		},
+		{
+			"postnummer": "3400",
+			"by": "Hillerød"
+		},
+		{
+			"postnummer": "3450",
+			"by": "Allerød"
+		},
+		{
+			"postnummer": "3460",
+			"by": "Birkerød"
+		},
+		{
+			"postnummer": "3480",
+			"by": "Fredensborg"
+		},
+		{
+			"postnummer": "3490",
+			"by": "Kvistgård"
+		},
+		{
+			"postnummer": "3500",
+			"by": "Værløse"
+		},
+		{
+			"postnummer": "3520",
+			"by": "Farum"
+		},
+		{
+			"postnummer": "3540",
+			"by": "Lynge"
+		},
+		{
+			"postnummer": "3550",
+			"by": "Slangerup"
+		},
+		{
+			"postnummer": "3600",
+			"by": "Frederikssund"
+		},
+		{
+			"postnummer": "3630",
+			"by": "Jægerspris"
+		},
+		{
+			"postnummer": "3650",
+			"by": "Ølstykke"
+		},
+		{
+			"postnummer": "3660",
+			"by": "Stenløse"
+		},
+		{
+			"postnummer": "3670",
+			"by": "Veksø Sjælland"
+		},
+		{
+			"postnummer": "3700",
+			"by": "Rønne"
+		},
+		{
+			"postnummer": "3720",
+			"by": "Aakirkeby"
+		},
+		{
+			"postnummer": "3730",
+			"by": "Nexø"
+		},
+		{
+			"postnummer": "3740",
+			"by": "Svaneke"
+		},
+		{
+			"postnummer": "3751",
+			"by": "Østermarie"
+		},
+		{
+			"postnummer": "3760",
+			"by": "Gudhjem"
+		},
+		{
+			"postnummer": "3770",
+			"by": "Allinge"
+		},
+		{
+			"postnummer": "3782",
+			"by": "Klemensker"
+		},
+		{
+			"postnummer": "3790",
+			"by": "Hasle"
+		},
+		{
+			"postnummer": "4000",
+			"by": "Roskilde"
+		},
+		{
+			"postnummer": "4030",
+			"by": "Tune"
+		},
+		{
+			"postnummer": "4040",
+			"by": "Jyllinge"
+		},
+		{
+			"postnummer": "4050",
+			"by": "Skibby"
+		},
+		{
+			"postnummer": "4060",
+			"by": "Kirke Såby"
+		},
+		{
+			"postnummer": "4070",
+			"by": "Kirke Hyllinge"
+		},
+		{
+			"postnummer": "4100",
+			"by": "Ringsted"
+		},
+		{
+			"postnummer": "4130",
+			"by": "Viby Sjælland"
+		},
+		{
+			"postnummer": "4140",
+			"by": "Borup"
+		},
+		{
+			"postnummer": "4160",
+			"by": "Herlufmagle"
+		},
+		{
+			"postnummer": "4171",
+			"by": "Glumsø"
+		},
+		{
+			"postnummer": "4173",
+			"by": "Fjenneslev"
+		},
+		{
+			"postnummer": "4174",
+			"by": "Jystrup Midtsj"
+		},
+		{
+			"postnummer": "4180",
+			"by": "Sorø"
+		},
+		{
+			"postnummer": "4190",
+			"by": "Munke Bjergby"
+		},
+		{
+			"postnummer": "4200",
+			"by": "Slagelse"
+		},
+		{
+			"postnummer": "4220",
+			"by": "Korsør"
+		},
+		{
+			"postnummer": "4230",
+			"by": "Skælskør"
+		},
+		{
+			"postnummer": "4241",
+			"by": "Vemmelev"
+		},
+		{
+			"postnummer": "4242",
+			"by": "Boeslunde"
+		},
+		{
+			"postnummer": "4243",
+			"by": "Rude"
+		},
+		{
+			"postnummer": "4250",
+			"by": "Fuglebjerg"
+		},
+		{
+			"postnummer": "4261",
+			"by": "Dalmose"
+		},
+		{
+			"postnummer": "4262",
+			"by": "Sandved"
+		},
+		{
+			"postnummer": "4270",
+			"by": "Høng"
+		},
+		{
+			"postnummer": "4281",
+			"by": "Gørlev"
+		},
+		{
+			"postnummer": "4291",
+			"by": "Ruds Vedby"
+		},
+		{
+			"postnummer": "4293",
+			"by": "Dianalund"
+		},
+		{
+			"postnummer": "4295",
+			"by": "Stenlille"
+		},
+		{
+			"postnummer": "4296",
+			"by": "Nyrup"
+		},
+		{
+			"postnummer": "4300",
+			"by": "Holbæk"
+		},
+		{
+			"postnummer": "4320",
+			"by": "Lejre"
+		},
+		{
+			"postnummer": "4330",
+			"by": "Hvalsø"
+		},
+		{
+			"postnummer": "4340",
+			"by": "Tølløse"
+		},
+		{
+			"postnummer": "4350",
+			"by": "Ugerløse"
+		},
+		{
+			"postnummer": "4360",
+			"by": "Kirke Eskilstrup"
+		},
+		{
+			"postnummer": "4370",
+			"by": "Store Merløse"
+		},
+		{
+			"postnummer": "4390",
+			"by": "Vipperød"
+		},
+		{
+			"postnummer": "4400",
+			"by": "Kalundborg"
+		},
+		{
+			"postnummer": "4420",
+			"by": "Regstrup"
+		},
+		{
+			"postnummer": "4440",
+			"by": "Mørkøv"
+		},
+		{
+			"postnummer": "4450",
+			"by": "Jyderup"
+		},
+		{
+			"postnummer": "4460",
+			"by": "Snertinge"
+		},
+		{
+			"postnummer": "4470",
+			"by": "Svebølle"
+		},
+		{
+			"postnummer": "4480",
+			"by": "Store Fuglede"
+		},
+		{
+			"postnummer": "4490",
+			"by": "Jerslev Sjælland"
+		},
+		{
+			"postnummer": "4500",
+			"by": "Nykøbing Sj"
+		},
+		{
+			"postnummer": "4520",
+			"by": "Svinninge"
+		},
+		{
+			"postnummer": "4532",
+			"by": "Gislinge"
+		},
+		{
+			"postnummer": "4534",
+			"by": "Hørve"
+		},
+		{
+			"postnummer": "4540",
+			"by": "Fårevejle"
+		},
+		{
+			"postnummer": "4550",
+			"by": "Asnæs"
+		},
+		{
+			"postnummer": "4560",
+			"by": "Vig"
+		},
+		{
+			"postnummer": "4571",
+			"by": "Grevinge"
+		},
+		{
+			"postnummer": "4572",
+			"by": "Nørre Asmindrup"
+		},
+		{
+			"postnummer": "4573",
+			"by": "Højby"
+		},
+		{
+			"postnummer": "4581",
+			"by": "Rørvig"
+		},
+		{
+			"postnummer": "4583",
+			"by": "Sjællands Odde"
+		},
+		{
+			"postnummer": "4591",
+			"by": "Føllenslev"
+		},
+		{
+			"postnummer": "4592",
+			"by": "Sejerø"
+		},
+		{
+			"postnummer": "4593",
+			"by": "Eskebjerg"
+		},
+		{
+			"postnummer": "4600",
+			"by": "Køge"
+		},
+		{
+			"postnummer": "4621",
+			"by": "Gadstrup"
+		},
+		{
+			"postnummer": "4622",
+			"by": "Havdrup"
+		},
+		{
+			"postnummer": "4623",
+			"by": "Lille Skensved"
+		},
+		{
+			"postnummer": "4632",
+			"by": "Bjæverskov"
+		},
+		{
+			"postnummer": "4640",
+			"by": "Faxe"
+		},
+		{
+			"postnummer": "4652",
+			"by": "Hårlev"
+		},
+		{
+			"postnummer": "4653",
+			"by": "Karise"
+		},
+		{
+			"postnummer": "4654",
+			"by": "Faxe Ladeplads"
+		},
+		{
+			"postnummer": "4660",
+			"by": "Store Heddinge"
+		},
+		{
+			"postnummer": "4671",
+			"by": "Strøby"
+		},
+		{
+			"postnummer": "4672",
+			"by": "Klippinge"
+		},
+		{
+			"postnummer": "4673",
+			"by": "Rødvig Stevns"
+		},
+		{
+			"postnummer": "4681",
+			"by": "Herfølge"
+		},
+		{
+			"postnummer": "4682",
+			"by": "Tureby"
+		},
+		{
+			"postnummer": "4683",
+			"by": "Rønnede"
+		},
+		{
+			"postnummer": "4684",
+			"by": "Holmegaard"
+		},
+		{
+			"postnummer": "4690",
+			"by": "Haslev"
+		},
+		{
+			"postnummer": "4700",
+			"by": "Næstved"
+		},
+		{
+			"postnummer": "4720",
+			"by": "Præstø"
+		},
+		{
+			"postnummer": "4733",
+			"by": "Tappernøje"
+		},
+		{
+			"postnummer": "4735",
+			"by": "Mern"
+		},
+		{
+			"postnummer": "4736",
+			"by": "Karrebæksminde"
+		},
+		{
+			"postnummer": "4750",
+			"by": "Lundby"
+		},
+		{
+			"postnummer": "4760",
+			"by": "Vordingborg"
+		},
+		{
+			"postnummer": "4771",
+			"by": "Kalvehave"
+		},
+		{
+			"postnummer": "4772",
+			"by": "Langebæk"
+		},
+		{
+			"postnummer": "4773",
+			"by": "Stensved"
+		},
+		{
+			"postnummer": "4780",
+			"by": "Stege"
+		},
+		{
+			"postnummer": "4791",
+			"by": "Borre"
+		},
+		{
+			"postnummer": "4792",
+			"by": "Askeby"
+		},
+		{
+			"postnummer": "4793",
+			"by": "Bogø By"
+		},
+		{
+			"postnummer": "4800",
+			"by": "Nykøbing F"
+		},
+		{
+			"postnummer": "4840",
+			"by": "Nørre Alslev"
+		},
+		{
+			"postnummer": "4850",
+			"by": "Stubbekøbing"
+		},
+		{
+			"postnummer": "4862",
+			"by": "Guldborg"
+		},
+		{
+			"postnummer": "4863",
+			"by": "Eskilstrup"
+		},
+		{
+			"postnummer": "4871",
+			"by": "Horbelev"
+		},
+		{
+			"postnummer": "4872",
+			"by": "Idestrup"
+		},
+		{
+			"postnummer": "4873",
+			"by": "Væggerløse"
+		},
+		{
+			"postnummer": "4874",
+			"by": "Gedser"
+		},
+		{
+			"postnummer": "4880",
+			"by": "Nysted"
+		},
+		{
+			"postnummer": "4891",
+			"by": "Toreby L"
+		},
+		{
+			"postnummer": "4892",
+			"by": "Kettinge"
+		},
+		{
+			"postnummer": "4894",
+			"by": "Øster Ulslev"
+		},
+		{
+			"postnummer": "4895",
+			"by": "Errindlev"
+		},
+		{
+			"postnummer": "4900",
+			"by": "Nakskov"
+		},
+		{
+			"postnummer": "4912",
+			"by": "Harpelunde"
+		},
+		{
+			"postnummer": "4913",
+			"by": "Horslunde"
+		},
+		{
+			"postnummer": "4920",
+			"by": "Søllested"
+		},
+		{
+			"postnummer": "4930",
+			"by": "Maribo"
+		},
+		{
+			"postnummer": "4941",
+			"by": "Bandholm"
+		},
+		{
+			"postnummer": "4943",
+			"by": "Torrig L"
+		},
+		{
+			"postnummer": "4944",
+			"by": "Fejø"
+		},
+		{
+			"postnummer": "4951",
+			"by": "Nørreballe"
+		},
+		{
+			"postnummer": "4952",
+			"by": "Stokkemarke"
+		},
+		{
+			"postnummer": "4953",
+			"by": "Vesterborg"
+		},
+		{
+			"postnummer": "4960",
+			"by": "Holeby"
+		},
+		{
+			"postnummer": "4970",
+			"by": "Rødby"
+		},
+		{
+			"postnummer": "4983",
+			"by": "Dannemare"
+		},
+		{
+			"postnummer": "4990",
+			"by": "Sakskøbing"
+		},
+		{
+			"postnummer": "5000",
+			"by": "Odense C"
+		},
+		{
+			"postnummer": "5200",
+			"by": "Odense V"
+		},
+		{
+			"postnummer": "5210",
+			"by": "Odense NV"
+		},
+		{
+			"postnummer": "5220",
+			"by": "Odense SØ"
+		},
+		{
+			"postnummer": "5230",
+			"by": "Odense M"
+		},
+		{
+			"postnummer": "5240",
+			"by": "Odense NØ"
+		},
+		{
+			"postnummer": "5250",
+			"by": "Odense SV"
+		},
+		{
+			"postnummer": "5260",
+			"by": "Odense S"
+		},
+		{
+			"postnummer": "5270",
+			"by": "Odense N"
+		},
+		{
+			"postnummer": "5290",
+			"by": "Marslev"
+		},
+		{
+			"postnummer": "5300",
+			"by": "Kerteminde"
+		},
+		{
+			"postnummer": "5320",
+			"by": "Agedrup"
+		},
+		{
+			"postnummer": "5330",
+			"by": "Munkebo"
+		},
+		{
+			"postnummer": "5350",
+			"by": "Rynkeby"
+		},
+		{
+			"postnummer": "5370",
+			"by": "Mesinge"
+		},
+		{
+			"postnummer": "5380",
+			"by": "Dalby"
+		},
+		{
+			"postnummer": "5390",
+			"by": "Martofte"
+		},
+		{
+			"postnummer": "5400",
+			"by": "Bogense"
+		},
+		{
+			"postnummer": "5450",
+			"by": "Otterup"
+		},
+		{
+			"postnummer": "5462",
+			"by": "Morud"
+		},
+		{
+			"postnummer": "5463",
+			"by": "Harndrup"
+		},
+		{
+			"postnummer": "5464",
+			"by": "Brenderup Fyn"
+		},
+		{
+			"postnummer": "5466",
+			"by": "Asperup"
+		},
+		{
+			"postnummer": "5471",
+			"by": "Søndersø"
+		},
+		{
+			"postnummer": "5474",
+			"by": "Veflinge"
+		},
+		{
+			"postnummer": "5485",
+			"by": "Skamby"
+		},
+		{
+			"postnummer": "5491",
+			"by": "Blommenslyst"
+		},
+		{
+			"postnummer": "5492",
+			"by": "Vissenbjerg"
+		},
+		{
+			"postnummer": "5500",
+			"by": "Middelfart"
+		},
+		{
+			"postnummer": "5540",
+			"by": "Ullerslev"
+		},
+		{
+			"postnummer": "5550",
+			"by": "Langeskov"
+		},
+		{
+			"postnummer": "5560",
+			"by": "Aarup"
+		},
+		{
+			"postnummer": "5580",
+			"by": "Nørre Aaby"
+		},
+		{
+			"postnummer": "5591",
+			"by": "Gelsted"
+		},
+		{
+			"postnummer": "5592",
+			"by": "Ejby"
+		},
+		{
+			"postnummer": "5600",
+			"by": "Faaborg"
+		},
+		{
+			"postnummer": "5610",
+			"by": "Assens"
+		},
+		{
+			"postnummer": "5620",
+			"by": "Glamsbjerg"
+		},
+		{
+			"postnummer": "5631",
+			"by": "Ebberup"
+		},
+		{
+			"postnummer": "5642",
+			"by": "Millinge"
+		},
+		{
+			"postnummer": "5672",
+			"by": "Broby"
+		},
+		{
+			"postnummer": "5683",
+			"by": "Haarby"
+		},
+		{
+			"postnummer": "5690",
+			"by": "Tommerup"
+		},
+		{
+			"postnummer": "5700",
+			"by": "Svendborg"
+		},
+		{
+			"postnummer": "5750",
+			"by": "Ringe"
+		},
+		{
+			"postnummer": "5762",
+			"by": "Vester Skerninge"
+		},
+		{
+			"postnummer": "5771",
+			"by": "Stenstrup"
+		},
+		{
+			"postnummer": "5772",
+			"by": "Kværndrup"
+		},
+		{
+			"postnummer": "5792",
+			"by": "Årslev"
+		},
+		{
+			"postnummer": "5800",
+			"by": "Nyborg"
+		},
+		{
+			"postnummer": "5853",
+			"by": "Ørbæk"
+		},
+		{
+			"postnummer": "5854",
+			"by": "Gislev"
+		},
+		{
+			"postnummer": "5856",
+			"by": "Ryslinge"
+		},
+		{
+			"postnummer": "5863",
+			"by": "Ferritslev Fyn"
+		},
+		{
+			"postnummer": "5871",
+			"by": "Frørup"
+		},
+		{
+			"postnummer": "5874",
+			"by": "Hesselager"
+		},
+		{
+			"postnummer": "5881",
+			"by": "Skårup Fyn"
+		},
+		{
+			"postnummer": "5882",
+			"by": "Vejstrup"
+		},
+		{
+			"postnummer": "5883",
+			"by": "Oure"
+		},
+		{
+			"postnummer": "5884",
+			"by": "Gudme"
+		},
+		{
+			"postnummer": "5892",
+			"by": "Gudbjerg Sydfyn"
+		},
+		{
+			"postnummer": "5900",
+			"by": "Rudkøbing"
+		},
+		{
+			"postnummer": "5932",
+			"by": "Humble"
+		},
+		{
+			"postnummer": "5935",
+			"by": "Bagenkop"
+		},
+		{
+			"postnummer": "5953",
+			"by": "Tranekær"
+		},
+		{
+			"postnummer": "5960",
+			"by": "Marstal"
+		},
+		{
+			"postnummer": "5970",
+			"by": "Ærøskøbing"
+		},
+		{
+			"postnummer": "5985",
+			"by": "Søby Ærø"
+		},
+		{
+			"postnummer": "6000",
+			"by": "Kolding"
+		},
+		{
+			"postnummer": "6040",
+			"by": "Egtved"
+		},
+		{
+			"postnummer": "6051",
+			"by": "Almind"
+		},
+		{
+			"postnummer": "6052",
+			"by": "Viuf"
+		},
+		{
+			"postnummer": "6064",
+			"by": "Jordrup"
+		},
+		{
+			"postnummer": "6070",
+			"by": "Christiansfeld"
+		},
+		{
+			"postnummer": "6091",
+			"by": "Bjert"
+		},
+		{
+			"postnummer": "6092",
+			"by": "Sønder Stenderup"
+		},
+		{
+			"postnummer": "6093",
+			"by": "Sjølund"
+		},
+		{
+			"postnummer": "6094",
+			"by": "Hejls"
+		},
+		{
+			"postnummer": "6100",
+			"by": "Haderslev"
+		},
+		{
+			"postnummer": "6200",
+			"by": "Aabenraa"
+		},
+		{
+			"postnummer": "6230",
+			"by": "Rødekro"
+		},
+		{
+			"postnummer": "6240",
+			"by": "Løgumkloster"
+		},
+		{
+			"postnummer": "6261",
+			"by": "Bredebro"
+		},
+		{
+			"postnummer": "6270",
+			"by": "Tønder"
+		},
+		{
+			"postnummer": "6280",
+			"by": "Højer"
+		},
+		{
+			"postnummer": "6300",
+			"by": "Gråsten"
+		},
+		{
+			"postnummer": "6310",
+			"by": "Broager"
+		},
+		{
+			"postnummer": "6320",
+			"by": "Egernsund"
+		},
+		{
+			"postnummer": "6330",
+			"by": "Padborg"
+		},
+		{
+			"postnummer": "6340",
+			"by": "Kruså"
+		},
+		{
+			"postnummer": "6360",
+			"by": "Tinglev"
+		},
+		{
+			"postnummer": "6372",
+			"by": "Bylderup-Bov"
+		},
+		{
+			"postnummer": "6392",
+			"by": "Bolderslev"
+		},
+		{
+			"postnummer": "6400",
+			"by": "Sønderborg"
+		},
+		{
+			"postnummer": "6430",
+			"by": "Nordborg"
+		},
+		{
+			"postnummer": "6440",
+			"by": "Augustenborg"
+		},
+		{
+			"postnummer": "6470",
+			"by": "Sydals"
+		},
+		{
+			"postnummer": "6500",
+			"by": "Vojens"
+		},
+		{
+			"postnummer": "6510",
+			"by": "Gram"
+		},
+		{
+			"postnummer": "6520",
+			"by": "Toftlund"
+		},
+		{
+			"postnummer": "6534",
+			"by": "Agerskov"
+		},
+		{
+			"postnummer": "6535",
+			"by": "Branderup J"
+		},
+		{
+			"postnummer": "6541",
+			"by": "Bevtoft"
+		},
+		{
+			"postnummer": "6560",
+			"by": "Sommersted"
+		},
+		{
+			"postnummer": "6580",
+			"by": "Vamdrup"
+		},
+		{
+			"postnummer": "6600",
+			"by": "Vejen"
+		},
+		{
+			"postnummer": "6621",
+			"by": "Gesten"
+		},
+		{
+			"postnummer": "6622",
+			"by": "Bække"
+		},
+		{
+			"postnummer": "6623",
+			"by": "Vorbasse"
+		},
+		{
+			"postnummer": "6630",
+			"by": "Rødding"
+		},
+		{
+			"postnummer": "6640",
+			"by": "Lunderskov"
+		},
+		{
+			"postnummer": "6650",
+			"by": "Brørup"
+		},
+		{
+			"postnummer": "6660",
+			"by": "Lintrup"
+		},
+		{
+			"postnummer": "6670",
+			"by": "Holsted"
+		},
+		{
+			"postnummer": "6682",
+			"by": "Hovborg"
+		},
+		{
+			"postnummer": "6683",
+			"by": "Føvling"
+		},
+		{
+			"postnummer": "6690",
+			"by": "Gørding"
+		},
+		{
+			"postnummer": "6700",
+			"by": "Esbjerg"
+		},
+		{
+			"postnummer": "6705",
+			"by": "Esbjerg Ø"
+		},
+		{
+			"postnummer": "6710",
+			"by": "Esbjerg V"
+		},
+		{
+			"postnummer": "6715",
+			"by": "Esbjerg N"
+		},
+		{
+			"postnummer": "6720",
+			"by": "Fanø"
+		},
+		{
+			"postnummer": "6731",
+			"by": "Tjæreborg"
+		},
+		{
+			"postnummer": "6740",
+			"by": "Bramming"
+		},
+		{
+			"postnummer": "6752",
+			"by": "Glejbjerg"
+		},
+		{
+			"postnummer": "6753",
+			"by": "Agerbæk"
+		},
+		{
+			"postnummer": "6760",
+			"by": "Ribe"
+		},
+		{
+			"postnummer": "6771",
+			"by": "Gredstedbro"
+		},
+		{
+			"postnummer": "6780",
+			"by": "Skærbæk"
+		},
+		{
+			"postnummer": "6792",
+			"by": "Rømø"
+		},
+		{
+			"postnummer": "6800",
+			"by": "Varde"
+		},
+		{
+			"postnummer": "6818",
+			"by": "Årre"
+		},
+		{
+			"postnummer": "6823",
+			"by": "Ansager"
+		},
+		{
+			"postnummer": "6830",
+			"by": "Nørre Nebel"
+		},
+		{
+			"postnummer": "6840",
+			"by": "Oksbøl"
+		},
+		{
+			"postnummer": "6851",
+			"by": "Janderup Vestj"
+		},
+		{
+			"postnummer": "6852",
+			"by": "Billum"
+		},
+		{
+			"postnummer": "6853",
+			"by": "Vejers Strand"
+		},
+		{
+			"postnummer": "6854",
+			"by": "Henne"
+		},
+		{
+			"postnummer": "6855",
+			"by": "Outrup"
+		},
+		{
+			"postnummer": "6857",
+			"by": "Blåvand"
+		},
+		{
+			"postnummer": "6862",
+			"by": "Tistrup"
+		},
+		{
+			"postnummer": "6870",
+			"by": "Ølgod"
+		},
+		{
+			"postnummer": "6880",
+			"by": "Tarm"
+		},
+		{
+			"postnummer": "6893",
+			"by": "Hemmet"
+		},
+		{
+			"postnummer": "6900",
+			"by": "Skjern"
+		},
+		{
+			"postnummer": "6920",
+			"by": "Videbæk"
+		},
+		{
+			"postnummer": "6933",
+			"by": "Kibæk"
+		},
+		{
+			"postnummer": "6940",
+			"by": "Lem St"
+		},
+		{
+			"postnummer": "6950",
+			"by": "Ringkøbing"
+		},
+		{
+			"postnummer": "6960",
+			"by": "Hvide Sande"
+		},
+		{
+			"postnummer": "6971",
+			"by": "Spjald"
+		},
+		{
+			"postnummer": "6973",
+			"by": "Ørnhøj"
+		},
+		{
+			"postnummer": "6980",
+			"by": "Tim"
+		},
+		{
+			"postnummer": "6990",
+			"by": "Ulfborg"
+		},
+		{
+			"postnummer": "7000",
+			"by": "Fredericia"
+		},
+		{
+			"postnummer": "7007",
+			"by": "Fredericia"
+		},
+		{
+			"postnummer": "7080",
+			"by": "Børkop"
+		},
+		{
+			"postnummer": "7100",
+			"by": "Vejle"
+		},
+		{
+			"postnummer": "7120",
+			"by": "Vejle Øst"
+		},
+		{
+			"postnummer": "7130",
+			"by": "Juelsminde"
+		},
+		{
+			"postnummer": "7140",
+			"by": "Stouby"
+		},
+		{
+			"postnummer": "7150",
+			"by": "Barrit"
+		},
+		{
+			"postnummer": "7160",
+			"by": "Tørring"
+		},
+		{
+			"postnummer": "7171",
+			"by": "Uldum"
+		},
+		{
+			"postnummer": "7173",
+			"by": "Vonge"
+		},
+		{
+			"postnummer": "7182",
+			"by": "Bredsten"
+		},
+		{
+			"postnummer": "7183",
+			"by": "Randbøl"
+		},
+		{
+			"postnummer": "7184",
+			"by": "Vandel"
+		},
+		{
+			"postnummer": "7190",
+			"by": "Billund"
+		},
+		{
+			"postnummer": "7200",
+			"by": "Grindsted"
+		},
+		{
+			"postnummer": "7250",
+			"by": "Hejnsvig"
+		},
+		{
+			"postnummer": "7260",
+			"by": "Sønder Omme"
+		},
+		{
+			"postnummer": "7270",
+			"by": "Stakroge"
+		},
+		{
+			"postnummer": "7280",
+			"by": "Sønder Felding"
+		},
+		{
+			"postnummer": "7300",
+			"by": "Jelling"
+		},
+		{
+			"postnummer": "7321",
+			"by": "Gadbjerg"
+		},
+		{
+			"postnummer": "7323",
+			"by": "Give"
+		},
+		{
+			"postnummer": "7330",
+			"by": "Brande"
+		},
+		{
+			"postnummer": "7361",
+			"by": "Ejstrupholm"
+		},
+		{
+			"postnummer": "7362",
+			"by": "Hampen"
+		},
+		{
+			"postnummer": "7400",
+			"by": "Herning"
+		},
+		{
+			"postnummer": "7430",
+			"by": "Ikast"
+		},
+		{
+			"postnummer": "7441",
+			"by": "Bording"
+		},
+		{
+			"postnummer": "7442",
+			"by": "Engesvang"
+		},
+		{
+			"postnummer": "7451",
+			"by": "Sunds"
+		},
+		{
+			"postnummer": "7470",
+			"by": "Karup J"
+		},
+		{
+			"postnummer": "7480",
+			"by": "Vildbjerg"
+		},
+		{
+			"postnummer": "7490",
+			"by": "Aulum"
+		},
+		{
+			"postnummer": "7500",
+			"by": "Holstebro"
+		},
+		{
+			"postnummer": "7540",
+			"by": "Haderup"
+		},
+		{
+			"postnummer": "7550",
+			"by": "Sørvad"
+		},
+		{
+			"postnummer": "7560",
+			"by": "Hjerm"
+		},
+		{
+			"postnummer": "7570",
+			"by": "Vemb"
+		},
+		{
+			"postnummer": "7600",
+			"by": "Struer"
+		},
+		{
+			"postnummer": "7620",
+			"by": "Lemvig"
+		},
+		{
+			"postnummer": "7650",
+			"by": "Bøvlingbjerg"
+		},
+		{
+			"postnummer": "7660",
+			"by": "Bækmarksbro"
+		},
+		{
+			"postnummer": "7673",
+			"by": "Harboøre"
+		},
+		{
+			"postnummer": "7680",
+			"by": "Thyborøn"
+		},
+		{
+			"postnummer": "7700",
+			"by": "Thisted"
+		},
+		{
+			"postnummer": "7730",
+			"by": "Hanstholm"
+		},
+		{
+			"postnummer": "7741",
+			"by": "Frøstrup"
+		},
+		{
+			"postnummer": "7742",
+			"by": "Vesløs"
+		},
+		{
+			"postnummer": "7752",
+			"by": "Snedsted"
+		},
+		{
+			"postnummer": "7755",
+			"by": "Bedsted Thy"
+		},
+		{
+			"postnummer": "7760",
+			"by": "Hurup Thy"
+		},
+		{
+			"postnummer": "7770",
+			"by": "Vestervig"
+		},
+		{
+			"postnummer": "7790",
+			"by": "Thyholm"
+		},
+		{
+			"postnummer": "7800",
+			"by": "Skive"
+		},
+		{
+			"postnummer": "7830",
+			"by": "Vinderup"
+		},
+		{
+			"postnummer": "7840",
+			"by": "Højslev"
+		},
+		{
+			"postnummer": "7850",
+			"by": "Stoholm Jyll"
+		},
+		{
+			"postnummer": "7860",
+			"by": "Spøttrup"
+		},
+		{
+			"postnummer": "7870",
+			"by": "Roslev"
+		},
+		{
+			"postnummer": "7884",
+			"by": "Fur"
+		},
+		{
+			"postnummer": "7900",
+			"by": "Nykøbing M"
+		},
+		{
+			"postnummer": "7950",
+			"by": "Erslev"
+		},
+		{
+			"postnummer": "7960",
+			"by": "Karby"
+		},
+		{
+			"postnummer": "7970",
+			"by": "Redsted M"
+		},
+		{
+			"postnummer": "7980",
+			"by": "Vils"
+		},
+		{
+			"postnummer": "7990",
+			"by": "Øster Assels"
+		},
+		{
+			"postnummer": "8000",
+			"by": "Aarhus C"
+		},
+		{
+			"postnummer": "8200",
+			"by": "Aarhus N"
+		},
+		{
+			"postnummer": "8210",
+			"by": "Aarhus V"
+		},
+		{
+			"postnummer": "8220",
+			"by": "Brabrand"
+		},
+		{
+			"postnummer": "8230",
+			"by": "Åbyhøj"
+		},
+		{
+			"postnummer": "8240",
+			"by": "Risskov"
+		},
+		{
+			"postnummer": "8245",
+			"by": "Risskov Ø"
+		},
+		{
+			"postnummer": "8250",
+			"by": "Egå"
+		},
+		{
+			"postnummer": "8260",
+			"by": "Viby J"
+		},
+		{
+			"postnummer": "8270",
+			"by": "Højbjerg"
+		},
+		{
+			"postnummer": "8300",
+			"by": "Odder"
+		},
+		{
+			"postnummer": "8305",
+			"by": "Samsø"
+		},
+		{
+			"postnummer": "8310",
+			"by": "Tranbjerg J"
+		},
+		{
+			"postnummer": "8320",
+			"by": "Mårslet"
+		},
+		{
+			"postnummer": "8330",
+			"by": "Beder"
+		},
+		{
+			"postnummer": "8340",
+			"by": "Malling"
+		},
+		{
+			"postnummer": "8350",
+			"by": "Hundslund"
+		},
+		{
+			"postnummer": "8355",
+			"by": "Solbjerg"
+		},
+		{
+			"postnummer": "8361",
+			"by": "Hasselager"
+		},
+		{
+			"postnummer": "8362",
+			"by": "Hørning"
+		},
+		{
+			"postnummer": "8370",
+			"by": "Hadsten"
+		},
+		{
+			"postnummer": "8380",
+			"by": "Trige"
+		},
+		{
+			"postnummer": "8381",
+			"by": "Tilst"
+		},
+		{
+			"postnummer": "8382",
+			"by": "Hinnerup"
+		},
+		{
+			"postnummer": "8400",
+			"by": "Ebeltoft"
+		},
+		{
+			"postnummer": "8410",
+			"by": "Rønde"
+		},
+		{
+			"postnummer": "8420",
+			"by": "Knebel"
+		},
+		{
+			"postnummer": "8444",
+			"by": "Balle"
+		},
+		{
+			"postnummer": "8450",
+			"by": "Hammel"
+		},
+		{
+			"postnummer": "8462",
+			"by": "Harlev J"
+		},
+		{
+			"postnummer": "8464",
+			"by": "Galten"
+		},
+		{
+			"postnummer": "8471",
+			"by": "Sabro"
+		},
+		{
+			"postnummer": "8472",
+			"by": "Sporup"
+		},
+		{
+			"postnummer": "8500",
+			"by": "Grenaa"
+		},
+		{
+			"postnummer": "8520",
+			"by": "Lystrup"
+		},
+		{
+			"postnummer": "8530",
+			"by": "Hjortshøj"
+		},
+		{
+			"postnummer": "8541",
+			"by": "Skødstrup"
+		},
+		{
+			"postnummer": "8543",
+			"by": "Hornslet"
+		},
+		{
+			"postnummer": "8544",
+			"by": "Mørke"
+		},
+		{
+			"postnummer": "8550",
+			"by": "Ryomgård"
+		},
+		{
+			"postnummer": "8560",
+			"by": "Kolind"
+		},
+		{
+			"postnummer": "8570",
+			"by": "Trustrup"
+		},
+		{
+			"postnummer": "8581",
+			"by": "Nimtofte"
+		},
+		{
+			"postnummer": "8585",
+			"by": "Glesborg"
+		},
+		{
+			"postnummer": "8586",
+			"by": "Ørum Djurs"
+		},
+		{
+			"postnummer": "8592",
+			"by": "Anholt"
+		},
+		{
+			"postnummer": "8600",
+			"by": "Silkeborg"
+		},
+		{
+			"postnummer": "8620",
+			"by": "Kjellerup"
+		},
+		{
+			"postnummer": "8632",
+			"by": "Lemming"
+		},
+		{
+			"postnummer": "8641",
+			"by": "Sorring"
+		},
+		{
+			"postnummer": "8643",
+			"by": "Ans By"
+		},
+		{
+			"postnummer": "8653",
+			"by": "Them"
+		},
+		{
+			"postnummer": "8654",
+			"by": "Bryrup"
+		},
+		{
+			"postnummer": "8660",
+			"by": "Skanderborg"
+		},
+		{
+			"postnummer": "8670",
+			"by": "Låsby"
+		},
+		{
+			"postnummer": "8680",
+			"by": "Ry"
+		},
+		{
+			"postnummer": "8700",
+			"by": "Horsens"
+		},
+		{
+			"postnummer": "8721",
+			"by": "Daugård"
+		},
+		{
+			"postnummer": "8722",
+			"by": "Hedensted"
+		},
+		{
+			"postnummer": "8723",
+			"by": "Løsning"
+		},
+		{
+			"postnummer": "8732",
+			"by": "Hovedgård"
+		},
+		{
+			"postnummer": "8740",
+			"by": "Brædstrup"
+		},
+		{
+			"postnummer": "8751",
+			"by": "Gedved"
+		},
+		{
+			"postnummer": "8752",
+			"by": "Østbirk"
+		},
+		{
+			"postnummer": "8762",
+			"by": "Flemming"
+		},
+		{
+			"postnummer": "8763",
+			"by": "Rask Mølle"
+		},
+		{
+			"postnummer": "8765",
+			"by": "Klovborg"
+		},
+		{
+			"postnummer": "8766",
+			"by": "Nørre Snede"
+		},
+		{
+			"postnummer": "8781",
+			"by": "Stenderup"
+		},
+		{
+			"postnummer": "8783",
+			"by": "Hornsyld"
+		},
+		{
+			"postnummer": "8800",
+			"by": "Viborg"
+		},
+		{
+			"postnummer": "8830",
+			"by": "Tjele"
+		},
+		{
+			"postnummer": "8831",
+			"by": "Løgstrup"
+		},
+		{
+			"postnummer": "8832",
+			"by": "Skals"
+		},
+		{
+			"postnummer": "8840",
+			"by": "Rødkærsbro"
+		},
+		{
+			"postnummer": "8850",
+			"by": "Bjerringbro"
+		},
+		{
+			"postnummer": "8860",
+			"by": "Ulstrup"
+		},
+		{
+			"postnummer": "8870",
+			"by": "Langå"
+		},
+		{
+			"postnummer": "8881",
+			"by": "Thorsø"
+		},
+		{
+			"postnummer": "8882",
+			"by": "Fårvang"
+		},
+		{
+			"postnummer": "8883",
+			"by": "Gjern"
+		},
+		{
+			"postnummer": "8900",
+			"by": "Randers C"
+		},
+		{
+			"postnummer": "8920",
+			"by": "Randers NV"
+		},
+		{
+			"postnummer": "8930",
+			"by": "Randers NØ"
+		},
+		{
+			"postnummer": "8940",
+			"by": "Randers SV"
+		},
+		{
+			"postnummer": "8950",
+			"by": "Ørsted"
+		},
+		{
+			"postnummer": "8960",
+			"by": "Randers SØ"
+		},
+		{
+			"postnummer": "8961",
+			"by": "Allingåbro"
+		},
+		{
+			"postnummer": "8963",
+			"by": "Auning"
+		},
+		{
+			"postnummer": "8970",
+			"by": "Havndal"
+		},
+		{
+			"postnummer": "8981",
+			"by": "Spentrup"
+		},
+		{
+			"postnummer": "8983",
+			"by": "Gjerlev J"
+		},
+		{
+			"postnummer": "8990",
+			"by": "Fårup"
+		},
+		{
+			"postnummer": "9000",
+			"by": "Aalborg"
+		},
+		{
+			"postnummer": "9200",
+			"by": "Aalborg SV"
+		},
+		{
+			"postnummer": "9210",
+			"by": "Aalborg SØ"
+		},
+		{
+			"postnummer": "9220",
+			"by": "Aalborg Øst"
+		},
+		{
+			"postnummer": "9230",
+			"by": "Svenstrup J"
+		},
+		{
+			"postnummer": "9240",
+			"by": "Nibe"
+		},
+		{
+			"postnummer": "9260",
+			"by": "Gistrup"
+		},
+		{
+			"postnummer": "9270",
+			"by": "Klarup"
+		},
+		{
+			"postnummer": "9280",
+			"by": "Storvorde"
+		},
+		{
+			"postnummer": "9293",
+			"by": "Kongerslev"
+		},
+		{
+			"postnummer": "9300",
+			"by": "Sæby"
+		},
+		{
+			"postnummer": "9310",
+			"by": "Vodskov"
+		},
+		{
+			"postnummer": "9320",
+			"by": "Hjallerup"
+		},
+		{
+			"postnummer": "9330",
+			"by": "Dronninglund"
+		},
+		{
+			"postnummer": "9340",
+			"by": "Asaa"
+		},
+		{
+			"postnummer": "9352",
+			"by": "Dybvad"
+		},
+		{
+			"postnummer": "9362",
+			"by": "Gandrup"
+		},
+		{
+			"postnummer": "9370",
+			"by": "Hals"
+		},
+		{
+			"postnummer": "9380",
+			"by": "Vestbjerg"
+		},
+		{
+			"postnummer": "9381",
+			"by": "Sulsted"
+		},
+		{
+			"postnummer": "9382",
+			"by": "Tylstrup"
+		},
+		{
+			"postnummer": "9400",
+			"by": "Nørresundby"
+		},
+		{
+			"postnummer": "9430",
+			"by": "Vadum"
+		},
+		{
+			"postnummer": "9440",
+			"by": "Aabybro"
+		},
+		{
+			"postnummer": "9460",
+			"by": "Brovst"
+		},
+		{
+			"postnummer": "9480",
+			"by": "Løkken"
+		},
+		{
+			"postnummer": "9490",
+			"by": "Pandrup"
+		},
+		{
+			"postnummer": "9492",
+			"by": "Blokhus"
+		},
+		{
+			"postnummer": "9493",
+			"by": "Saltum"
+		},
+		{
+			"postnummer": "9500",
+			"by": "Hobro"
+		},
+		{
+			"postnummer": "9510",
+			"by": "Arden"
+		},
+		{
+			"postnummer": "9520",
+			"by": "Skørping"
+		},
+		{
+			"postnummer": "9530",
+			"by": "Støvring"
+		},
+		{
+			"postnummer": "9541",
+			"by": "Suldrup"
+		},
+		{
+			"postnummer": "9550",
+			"by": "Mariager"
+		},
+		{
+			"postnummer": "9560",
+			"by": "Hadsund"
+		},
+		{
+			"postnummer": "9574",
+			"by": "Bælum"
+		},
+		{
+			"postnummer": "9575",
+			"by": "Terndrup"
+		},
+		{
+			"postnummer": "9600",
+			"by": "Aars"
+		},
+		{
+			"postnummer": "9610",
+			"by": "Nørager"
+		},
+		{
+			"postnummer": "9620",
+			"by": "Aalestrup"
+		},
+		{
+			"postnummer": "9631",
+			"by": "Gedsted"
+		},
+		{
+			"postnummer": "9632",
+			"by": "Møldrup"
+		},
+		{
+			"postnummer": "9640",
+			"by": "Farsø"
+		},
+		{
+			"postnummer": "9670",
+			"by": "Løgstør"
+		},
+		{
+			"postnummer": "9681",
+			"by": "Ranum"
+		},
+		{
+			"postnummer": "9690",
+			"by": "Fjerritslev"
+		},
+		{
+			"postnummer": "9700",
+			"by": "Brønderslev"
+		},
+		{
+			"postnummer": "9740",
+			"by": "Jerslev J"
+		},
+		{
+			"postnummer": "9750",
+			"by": "Østervrå"
+		},
+		{
+			"postnummer": "9760",
+			"by": "Vrå"
+		},
+		{
+			"postnummer": "9800",
+			"by": "Hjørring"
+		},
+		{
+			"postnummer": "9830",
+			"by": "Tårs"
+		},
+		{
+			"postnummer": "9850",
+			"by": "Hirtshals"
+		},
+		{
+			"postnummer": "9870",
+			"by": "Sindal"
+		},
+		{
+			"postnummer": "9881",
+			"by": "Bindslev"
+		},
+		{
+			"postnummer": "9900",
+			"by": "Frederikshavn"
+		},
+		{
+			"postnummer": "9940",
+			"by": "Læsø"
+		},
+		{
+			"postnummer": "9970",
+			"by": "Strandby"
+		},
+		{
+			"postnummer": "9981",
+			"by": "Jerup"
+		},
+		{
+			"postnummer": "9982",
+			"by": "Ålbæk"
+		},
+		{
+			"postnummer": "9990",
+			"by": "Skagen"
+		}
+	]
+}

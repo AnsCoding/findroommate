@@ -1,33 +1,61 @@
-import { useState, useEffect } from "react";
-import { doc, getDoc } from "@firebase/firestore";
-import { usersRef } from "../firebase-config";
-import placerholder from "../assets/img/user-placeholder.jpg";
+import { useState, useEffect } from 'react';
+import { doc, getDoc } from '@firebase/firestore';
+import { usersRef } from '../firebase-config';
+import placerholder from '../assets/img/user-placeholder.jpg';
 
 export default function UserAvatar({ uid }) {
-    const [user, setUser] = useState({
-        image: placerholder,
-        name: "User's Name",
-        title: "User's Title"
-    });
+	const [user, setUser] = useState({
+		image: placerholder,
+		name: '',
+		budget: '',
+		cities: '',
+		housing: '',
+		student: '',
+		position: '',
+		birthday: '',
+		pets: '',
+		personality: '',
+		langauge: '',
+		smoking: '',
+		eatingHabits: '',
+		partyHabits: '',
+		guests: '',
+		bio: '',
+		interests: '',
+	});
 
-    useEffect(() => {
-        async function getUser() {
-            const docRef = doc(usersRef, uid);
-            const docSnap = await getDoc(docRef);
-            if (docSnap.data()) {
-                setUser(docSnap.data());
-            }
-        }
-        getUser();
-    }, [uid]);
+	useEffect(() => {
+		async function getUser() {
+			const docRef = doc(usersRef, uid);
+			const docSnap = await getDoc(docRef);
+			if (docSnap.data()) {
+				setUser(docSnap.data());
+			}
+		}
+		getUser();
+	}, [uid]);
 
-    return (
-        <div className="avatar">
-            <img src={user.image} alt={user.id} />
-            <span>
-                <h3>{user.name}</h3>
-                <p>{user.title}</p>
-            </span>
-        </div>
-    );
+	return (
+		<div className='avatar'>
+			<img src={user.image} alt={user.id} />
+			<span>
+				<h3>{user.name}</h3>
+				<p>{user.budget}</p>
+				<p>{user.cities}</p>
+				<p>{user.housing}</p>
+				<p>{user.student}</p>
+				<p>{user.position}</p>
+				<p>{user.birthday}</p>
+				<p>{user.pets}</p>
+				<p>{user.personality}</p>
+				<p>{user.langauge}</p>
+				<p>{user.smoking}</p>
+				<p>{user.eatingHabits}</p>
+				<p>{user.partyHabits}</p>
+				<p>{user.guests}</p>
+				<p>{user.bio}</p>
+				<p>{user.interests}</p>
+			</span>
+		</div>
+	);
 }
