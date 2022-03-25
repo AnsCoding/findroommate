@@ -15,7 +15,7 @@ export default function UserAvatar({ uid }) {
 		birthday: '',
 		pets: '',
 		personality: '',
-		langauge: '',
+		language: '',
 		smoking: '',
 		eatingHabits: '',
 		partyHabits: '',
@@ -48,7 +48,7 @@ export default function UserAvatar({ uid }) {
 				<p>{user.birthday}</p>
 				<p>{user.pets}</p>
 				<p>{user.personality}</p>
-				<p>{user.langauge}</p>
+				<p>{user.language}</p>
 				<p>{user.smoking}</p>
 				<p>{user.eatingHabits}</p>
 				<p>{user.partyHabits}</p>

@@ -112,9 +112,56 @@ export default function ProfilePage({ showLoader }) {
 
 	return (
 		<section className='page'>
-			<h2>Oprettelse</h2>
+			<h1>Profile</h1>
 			<form onSubmit={handleSubmit}>
 				<b>Lad os komme i gang!</b>
+
+				{/* ----- Navn ----- */}
+				<label>
+					Name
+					<input
+						type='text'
+						value={name}
+						onChange={(e) => setName(e.target.value)}
+						name='name'
+						placeholder='Type name'
+					/>
+				</label>
+
+				{/* ----- Email ----- */}
+
+				<label>
+					Email
+					<input
+						type='email'
+						value={email}
+						onChange={(e) => setEmail(e.target.value)}
+						name='email'
+						placeholder='Type email'
+						disabled
+					/>
+				</label>
+
+				{/* ----- Profilbillede ----- */}
+
+				<label>
+					Image
+					<input
+						type='file'
+						className='file-input'
+						accept='image/*'
+						onChange={handleImageChange}
+					/>
+					<img
+						className='image-preview'
+						src={image}
+						alt='Choose'
+						onError={(event) => (event.target.src = imgPlaceholder)}
+					/>
+				</label>
+
+				{/* ----- Budget ----- */}
+
 				<label>
 					Hvad er dit månedlige budget?
 					<input
@@ -125,6 +172,8 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
+				{/* ----- Byer ----- */}
+
 				<label>
 					Indtast de byer hvor du søger bolig eller roommates
 					<input
@@ -134,6 +183,8 @@ export default function ProfilePage({ showLoader }) {
 						placeholder='Indtast bynavn'
 					/>
 				</label>
+
+				{/* ----- Bolig ----- */}
 
 				<p>Har du egen bolig?</p>
 				<label for='housing'>
@@ -155,6 +206,8 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
+				{/* ----- Student ----- */}
+
 				<p>Er du student?</p>
 				<label for='student'>
 					Student
@@ -175,6 +228,8 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
+				{/* ----- Stilling ----- */}
+
 				<label>
 					Hvad er din stilling?
 					<input
@@ -186,32 +241,7 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
-				<label>
-					Vælgt dit profilbillede
-					<input
-						type='file'
-						className='file-input'
-						accept='image/*'
-						onChange={handleImageChange}
-					/>
-					<img
-						className='image-preview'
-						src={image}
-						alt='Choose'
-						onError={(event) => (event.target.src = imgPlaceholder)}
-					/>
-				</label>
-
-				<b>Informationer</b>
-				<p>Generelt om dig</p>
-
-				<input
-					type='text'
-					value={name}
-					onChange={(e) => setName(e.target.value)}
-					name='name'
-					placeholder='Dit navn'
-				/>
+				{/* ----- Fødselsdag ----- */}
 
 				<input
 					type='date'
@@ -220,6 +250,8 @@ export default function ProfilePage({ showLoader }) {
 					name='birthday'
 					placeholder='Din fødselsdag'
 				/>
+
+				{/* ----- Kæledyr ----- */}
 
 				<p>Medbringer du et kæledyr i din kommende lejlighed?</p>
 				<label for='pets'>
@@ -240,6 +272,8 @@ export default function ProfilePage({ showLoader }) {
 						name='pets'
 					/>
 				</label>
+
+				{/* ----- Personlighed ----- */}
 
 				<p>
 					Det er ofte godt at vide hvilken personlighed din kommende roommate
@@ -273,6 +307,8 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
+				{/* ----- Sprog ----- */}
+
 				<label>
 					Kommunikation er vigtig blandt roommates. Skriv alle de sprog du
 					behersker!
@@ -284,6 +320,8 @@ export default function ProfilePage({ showLoader }) {
 						placeholder='Eks. Dansk, Engelsk..'
 					/>
 				</label>
+
+				{/* ----- Rygning ----- */}
 
 				<b>Livsstil</b>
 				<p>Hvad er din rygevaner?</p>
@@ -305,6 +343,8 @@ export default function ProfilePage({ showLoader }) {
 						name='smoking'
 					/>
 				</label>
+
+				{/* ----- Rygning ----- */}
 
 				<p>Hvad er din spisevaner?</p>
 				<label for='eatingHabits'>
@@ -344,6 +384,8 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
+				{/* ----- Personlighed ----- */}
+
 				<p>Hvad er din festvaner?</p>
 				<label for='partyHabits'>
 					Fester sjældent
@@ -373,6 +415,8 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
+				{/* ----- Gæster ----- */}
+
 				<label>
 					Hvor tit regner du med at have gæster på besøg?
 					<div>Gæst pr. uge</div>
@@ -384,6 +428,8 @@ export default function ProfilePage({ showLoader }) {
 					/>
 				</label>
 
+				{/* ----- Bio Tekst ----- */}
+
 				<b>Om mig</b>
 				<label>
 					Hvorfor er du den bedste roommate?
@@ -393,6 +439,37 @@ export default function ProfilePage({ showLoader }) {
 						placeholder='Udfyld din bio..'
 					/>
 				</label>
+
+				{/* ----- Interesser ----- */}
+
+				<label>
+					Skriv dine interesser i hashtags
+					<input
+						type='text'
+						value={interests}
+						onChange={(e) => setInterests(e.target.value)}
+						placeholder='#roommates #verdensfred'
+					/>
+				</label>
+
+				<p className='text-error'>{errorMessage}</p>
+				<button>Save User</button>
+			</form>
+			<button className='btn-outline' onClick={handleSignOut}>
+				Sign Out
+			</button>
+
+			{/* <h2>Oprettelse</h2>
+			<form onSubmit={handleSubmit}>
+
+			
+
+				
+
+				
+
+
+
 
 				<label>
 					Skriv dine interesser i hashtags
@@ -421,7 +498,7 @@ export default function ProfilePage({ showLoader }) {
 			</form>
 			<button className='btn-outline' onClick={handleSignOut}>
 				Sign Out
-			</button>
+			</button> */}
 		</section>
 	);
 }
