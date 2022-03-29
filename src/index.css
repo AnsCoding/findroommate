@@ -17,6 +17,10 @@ element.style {
 	color: none;
 }
 
+/* form {
+	margin-bottom: 5em;
+} */
+
 input:focus,
 textarea:focus,
 select:focus {
@@ -28,6 +32,17 @@ body {
 	margin: 1em;
 	background-color: #ffffff;
 	font-family: 'Roboto', sans-serif;
+}
+
+.page {
+	margin-bottom: 5em;
+}
+
+.blue-text {
+	color: #007aff;
+	font-size: 16px;
+	display: flex;
+	align-items: center;
 }
 
 .logo {
@@ -209,6 +224,23 @@ span img {
 	line-height: 2em;
 	max-height: 4em;
 	width: 50%;
+}
+
+/* ---------- Create Profile ------------- */
+
+.box-style {
+	height: 1.75em;
+	background-color: #e6f6fe;
+	color: #5195e5;
+	display: flex;
+	align-items: center;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 1em;
+	margin: 0 1em 1em 0;
+	border-radius: 6px;
+	box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
+	border: #007aff 1px solid;
 }
 
 /* ---------- grid container styling ---------- */

@@ -116,36 +116,10 @@ export default function ProfilePage({ showLoader }) {
 			<form onSubmit={handleSubmit}>
 				<b>Lad os komme i gang!</b>
 
-				{/* ----- Navn ----- */}
-				<label>
-					Name
-					<input
-						type='text'
-						value={name}
-						onChange={(e) => setName(e.target.value)}
-						name='name'
-						placeholder='Type name'
-					/>
-				</label>
-
-				{/* ----- Email ----- */}
-
-				<label>
-					Email
-					<input
-						type='email'
-						value={email}
-						onChange={(e) => setEmail(e.target.value)}
-						name='email'
-						placeholder='Type email'
-						disabled
-					/>
-				</label>
-
 				{/* ----- Profilbillede ----- */}
 
 				<label>
-					Image
+					<h5 class='blue-text'>Vælgt dit profilbillede</h5>
 					<input
 						type='file'
 						className='file-input'
@@ -190,6 +164,7 @@ export default function ProfilePage({ showLoader }) {
 				<label for='housing'>
 					Ingen bolig
 					<input
+						class='box-style'
 						type='radio'
 						value={housing}
 						onChange={() => setHousing('Ingen bolig')}
