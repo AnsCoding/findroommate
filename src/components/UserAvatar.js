@@ -30,6 +30,7 @@ export default function UserAvatar({ uid }) {
 		async function getUser() {
 			const docRef = doc(usersRef, uid);
 			const docSnap = await getDoc(docRef);
+
 			if (docSnap.data()) {
 				setUser(docSnap.data());
 			}
