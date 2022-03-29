@@ -12,7 +12,7 @@ export default function Nav() {
 		bottom: '0',
 		height: '60px',
 		width: '100%',
-		boxShadow: 'rgb(38, 57, 77) 0px 20px 30px -10px',
+		boxShadow: 'rgba(100, 100, 111, 0.2) 0px 20px 30px 20px',
 	};
 	const styleNav = {
 		textDecoration: 'none',
