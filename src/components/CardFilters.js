@@ -27,7 +27,7 @@ export default function UserAvatar({ uid }) {
 
 	return (
 		<div class='divbox'>
-			<div class='box-info'>🚬 {user.smoking}</div>
+			<div class='box-info'>🚬{user.smoking}</div>
 			<div class='box-info'>🐕 {user.pets}</div>
 			<div class='box-info'>👤 {user.personality}</div>
 			<div class='box-info'>🥄 {user.eatingHabits}</div>
