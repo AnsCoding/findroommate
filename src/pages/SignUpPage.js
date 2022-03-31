@@ -36,8 +36,6 @@ export default function SignUpPage({ showLoader }) {
 			<form onSubmit={handleSignUp}>
 				<input type='email' name='mail' placeholder='Din email' />
 				<input type='password' name='password' placeholder='Din adgangskode' />
-				<input type='text' name='name' placeholder='Dit navn' />
-				<input type='number' name='birthday' placeholder='Din fødselsdag' />
 				<p className='text-error'>{errorMessage}</p>
 				<button>Opret en profil</button>
 			</form>
