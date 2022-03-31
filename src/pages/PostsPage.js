@@ -28,9 +28,7 @@ export default function HomePage({ showLoader }) {
 	return (
 		<section className='page'>
 			<section>
-				<h2 className='logo'>FindRoommate</h2>
-
-				<h1 class='slogan'>En roommate er mere end en lejer 😇</h1>
+				<p>En roommate er mere end en lejer 😇</p>
 				<div class='search-input'>
 					<FontAwesomeIcon icon={faSearch} />
 					<input
@@ -42,30 +40,27 @@ export default function HomePage({ showLoader }) {
 						}}
 					/>
 				</div>
-				<div className='profile-show'>
+				<div className='shadow'>
 					<div>
-						<h4> Nyeste roommates</h4>
+						<p> Nyeste roommates</p>
 					</div>
 					<div>
-						<button
-							onClick={toggleModal}
-							// className='btn-modal'
-							class='box-filter'
-						>
-							<b>Filtrere</b>
+						<button onClick={toggleModal} className='btn-modal'>
+							<b>Filtrer</b>
 						</button>
 						{modal && (
 							<div className='modal'>
 								<div className='overlay'>
 									<div className='modal-content'>
-										<h2>Hello</h2>
 										<p>
-											lorek skd skd kk sdk skd ksd skd ksskd ks dskd ks dks skd
-											sk dks dks dskd ks dks dksd
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+											sed do eiusmod tempor incididunt ut labore et dolore magna
+											aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+											ullamco laboris nisi ut aliquip ex ea commodo consequat.
 										</p>
 									</div>
 									<button className='close-modal' onClick={toggleModal}>
-										Close
+										Luk
 									</button>
 								</div>
 							</div>
@@ -80,7 +75,7 @@ export default function HomePage({ showLoader }) {
 						if (searchTerm === '') {
 							return post;
 						} else if (
-							post.title.toLowerCase().includes(searchTerm.toLocaleLowerCase())
+							post.city.toLowerCase().includes(searchTerm.toLocaleLowerCase())
 						) {
 							return post;
 						}

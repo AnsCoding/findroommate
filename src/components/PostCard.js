@@ -1,10 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import { useState, useEffect } from 'react';
-import { doc, getDoc } from '@firebase/firestore';
-import { usersRef } from '../firebase-config';
 import UserAvatar from './UserAvatar';
-import CardFilters from './CardFilters';
-import CardBio from './CardBio';
 import imgLine from '../assets/img/line.png';
 
 export default function PostCard({ post }) {
@@ -15,15 +10,49 @@ export default function PostCard({ post }) {
 	}
 
 	return (
-		<article>
-			<UserAvatar uid={post.uid} />
-			<CardFilters uid={post.uid} />
-
-			<div class='img-line'>
-				<img src={imgLine} alt={'line'} />
+		<article onClick={handleClick}>
+			<div
+				style={{
+					backgroundImage: `url(${post.image})`,
+					backgroundSize: 'cover',
+					backgroundRepeat: 'no-repeat',
+					backgroundPosition: 'center',
+					height: '21.25em',
+					borderRadius: '10px 10px 0 0',
+					display: 'flex',
+					boxShadow: 'inset 0px -90px 100px -40px #000000',
+				}}
+			>
+				<UserAvatar uid={post.uid} post={post} key={post.id} />
 			</div>
 
-			<CardBio uid={post.uid} />
+			<div className='divbox'>
+				<div className='box-info'>🚬{post.smoking}</div>
+
+				<div className='box-info'>🐕 {post.pets}</div>
+
+				<div className='box-info'>👤 {post.personality}</div>
+
+				<div className='box-info'>🥄 {post.eatingHabits}</div>
+
+				<div className='box-info'>🎉 {post.partyHabits}</div>
+
+				<div className='box-info'>💼 {post.position}</div>
+
+				<div className='box-info'>🗣️ {post.language}</div>
+
+				<div className='img-line'>
+					<img src={imgLine} alt={'line'} />
+				</div>
+			</div>
+			<div className='bio-box'>
+				<p className='bio-text'>{post.bio}</p>
+
+				<span>
+					<h3>{post.budget} kr.</h3>
+					<p>Månedlig husleje budget</p>
+				</span>
+			</div>
 		</article>
 	);
 }

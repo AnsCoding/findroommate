@@ -1,4 +1,3 @@
-import { buildQueries } from '@testing-library/react';
 import { NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHouseChimney } from '@fortawesome/free-solid-svg-icons';
@@ -6,31 +5,20 @@ import { faMessage } from '@fortawesome/free-solid-svg-icons';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 
 export default function Nav() {
-	const positionNav = {
-		position: 'fixed',
-		left: '0',
-		bottom: '0',
-		height: '60px',
-		width: '100%',
-		boxShadow: 'rgba(100, 100, 111, 0.2) 0px 20px 30px 20px',
-	};
-	const styleNav = {
-		textDecoration: 'none',
-		textTransform: 'uppercase',
-		fontSize: '.9rem',
-		fontWeight: 'bold',
-		padding: '1em',
-	};
-
 	return (
-		<nav style={positionNav}>
-			<NavLink to='/' style={styleNav} className='Nav_link'>
+		<nav>
+			<NavLink to='/' className='Nav_link'>
 				<FontAwesomeIcon icon={faHouseChimney} /> Roommates
 			</NavLink>
-			<NavLink to='/posts/:id' style={styleNav} className='Nav_link'>
-				<FontAwesomeIcon icon={faMessage} /> Notifikation
+
+			<NavLink to='/sign-in' className='Nav_link'>
+				Sign-in
 			</NavLink>
-			<NavLink to='/profile' style={styleNav} className='Nav_link'>
+
+			<NavLink to='/create' className='Nav_link'>
+				Create
+			</NavLink>
+			<NavLink to='/profile' className='Nav_link'>
 				<FontAwesomeIcon icon={faUser} /> Profile
 			</NavLink>
 		</nav>
