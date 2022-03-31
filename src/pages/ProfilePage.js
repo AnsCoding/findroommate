@@ -40,7 +40,7 @@ export default function ProfilePage({ showLoader }) {
 		await setDoc(docRef, userToUpdate);
 		showLoader(false);
 
-		window.location.reload(false);
+		window.location.reload();
 	}
 
 	function handleSignOut() {

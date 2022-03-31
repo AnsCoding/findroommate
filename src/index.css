@@ -525,3 +525,7 @@ form textarea::placeholder {
 	color: #a2a2a2;
 	font-family: inherit;
 }
+textarea:focus,
+input:focus {
+	outline: none;
+}
