@@ -2,13 +2,11 @@ import { useEffect, useState } from 'react';
 import { getAuth, signOut } from 'firebase/auth';
 import { usersRef } from '../firebase-config';
 import { doc, getDoc, setDoc } from '@firebase/firestore';
-import { useNavigate } from 'react-router-dom';
 
 export default function ProfilePage({ showLoader }) {
 	const [name, setName] = useState('');
 	const [birthday, setBirthday] = useState('');
 	const [email, setEmail] = useState('');
-	const navigate = useNavigate();
 
 	const auth = getAuth();
 
@@ -42,7 +40,7 @@ export default function ProfilePage({ showLoader }) {
 		await setDoc(docRef, userToUpdate);
 		showLoader(false);
 
-		navigate('/');
+		window.location.reload(false);
 	}
 
 	function handleSignOut() {
