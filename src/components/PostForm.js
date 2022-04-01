@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import imgPlaceholder from '../assets/img/img-placeholder.jpg';
 
+// Prawal & Ans
+
 export default function PostForm({ savePost, post }) {
 	const [city, setCitys] = useState('');
 	const [image, setImage] = useState('');
@@ -365,28 +367,6 @@ export default function PostForm({ savePost, post }) {
 					onChange={(e) => setInterests(e.target.value)}
 				/>
 			</label>
-
-			{/* --------------------- */}
-
-			{/* <p>Hvilke sprog taler du?</p>
-			<label>
-				<input
-					type='text'
-					value={language}
-					placeholder='eks. Dansk, Engelsk..'
-					onChange={(e) => setLanguage(e.target.value)}
-				/>
-			</label> */}
-
-			{/* <p>Hvor vil du bo</p>
-			<label>
-				<input
-					type='text'
-					value={city}
-					placeholder='Type a citt text'
-					onChange={(e) => setCitys(e.target.value)}
-				/>
-			</label> */}
 
 			<p className='text-error'>{errorMessage}</p>
 			<button type='submit'>Save</button>

@@ -3,6 +3,8 @@ import { getAuth, signOut } from 'firebase/auth';
 import { usersRef } from '../firebase-config';
 import { doc, getDoc, setDoc } from '@firebase/firestore';
 
+// Prawal & Ans
+
 export default function ProfilePage({ showLoader }) {
 	const [name, setName] = useState('');
 	const [birthday, setBirthday] = useState('');

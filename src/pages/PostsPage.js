@@ -5,6 +5,8 @@ import PostCard from '../components/PostCard';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 
+//Prawal & Ans
+
 export default function HomePage({ showLoader }) {
 	const [posts, setPosts] = useState([]);
 	const [modal, setModal] = useState(false);
@@ -61,6 +63,8 @@ export default function HomePage({ showLoader }) {
 					</div>
 				</div>
 			</section>
+
+			{/* Prawal - Filtrere igennem vores array med filter */}
 
 			<section className='grid-container'>
 				{posts

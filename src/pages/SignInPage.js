@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react';
 import { getAuth, signInWithEmailAndPassword } from 'firebase/auth';
 import { Link } from 'react-router-dom';
 
+// Prawal & Ans
+
 export default function SignInPage({ showLoader }) {
 	const [errorMessage, setErrorMessage] = useState('');
 
@@ -16,7 +18,6 @@ export default function SignInPage({ showLoader }) {
 		const auth = getAuth();
 		signInWithEmailAndPassword(auth, mail, password)
 			.then((userCredential) => {
-				// Signed in
 				const user = userCredential.user;
 				console.log(user);
 			})

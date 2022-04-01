@@ -13,6 +13,8 @@ import { doc, getDoc } from '@firebase/firestore';
 import { usersRef } from './firebase-config';
 import { useNavigate } from 'react-router-dom';
 
+// Prawal & Ans
+
 function App() {
 	const [showLoader, setShowLoader] = useState(true);
 	const [isAuth, setIsAuth] = useState(localStorage.getItem('isAuth'));
@@ -20,6 +22,8 @@ function App() {
 	const navigate = useNavigate();
 
 	const auth = getAuth();
+
+	//Ans - Sørger for at bruger der er logged in, ikke kan se andre sider medmindre de udfylder profile siden eller logger ud
 
 	useState(() => {
 		onAuthStateChanged(auth, (user) => {

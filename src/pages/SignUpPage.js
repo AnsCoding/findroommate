@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react';
 import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth';
 import { Link } from 'react-router-dom';
 
+// Prawal & Ans
+
 export default function SignUpPage({ showLoader }) {
 	const [errorMessage, setErrorMessage] = useState('');
 

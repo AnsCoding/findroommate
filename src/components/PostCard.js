@@ -9,6 +9,8 @@ export default function PostCard({ post }) {
 		navigate(`posts/${post.id}`);
 	}
 
+	// Prawal & Ans
+
 	return (
 		<article onClick={handleClick}>
 			<div

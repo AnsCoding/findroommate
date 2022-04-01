@@ -5,6 +5,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHouse } from '@fortawesome/free-solid-svg-icons';
 import { faCity } from '@fortawesome/free-solid-svg-icons';
 
+// Prawal & Ans
+
 export default function UserAvatar({ uid, post }) {
 	const [user, setUser] = useState({
 		name: 'Navn',
@@ -21,6 +23,8 @@ export default function UserAvatar({ uid, post }) {
 		}
 		getUser();
 	}, [uid]);
+
+	// Ans - Component style attribut
 
 	return (
 		<div className='avatar'>
