@@ -7,8 +7,8 @@ import { faCity } from '@fortawesome/free-solid-svg-icons';
 
 export default function UserAvatar({ uid, post }) {
 	const [user, setUser] = useState({
-		name: "User's Name",
-		birthday: "User's Birthday",
+		name: 'Navn',
+		birthday: 'Fødselsdag',
 	});
 
 	useEffect(() => {
@@ -24,23 +24,11 @@ export default function UserAvatar({ uid, post }) {
 
 	return (
 		<div className='avatar'>
-			<span
-				style={{
-					marginLeft: '0.4em',
-				}}
-			>
-				<h2
-					style={{
-						margin: '0.2em 0',
-					}}
-				>
+			<span style={{ marginLeft: '0.4em' }}>
+				<h2 style={{ margin: '0.2em 0' }}>
 					{user.name}, {user.birthday}
 				</h2>
-				<p
-					style={{
-						marginBottom: '0.3em',
-					}}
-				>
+				<p style={{ marginBottom: '0.3em' }}>
 					<FontAwesomeIcon
 						icon={faHouse}
 						style={{
@@ -50,18 +38,14 @@ export default function UserAvatar({ uid, post }) {
 					/>{' '}
 					{post.housing}
 				</p>
-				<p
-					style={{
-						marginBottom: '0.3em',
-					}}
-				>
+				<p style={{ marginBottom: '0.3em' }}>
 					<FontAwesomeIcon
 						icon={faCity}
 						style={{
 							color: '#5195E5',
 							marginRight: '0.2em',
 						}}
-					/>{' '}
+					/>
 					{post.city}
 				</p>
 			</span>

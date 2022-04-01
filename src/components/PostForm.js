@@ -4,27 +4,16 @@ import imgPlaceholder from '../assets/img/img-placeholder.jpg';
 export default function PostForm({ savePost, post }) {
 	const [city, setCitys] = useState('');
 	const [image, setImage] = useState('');
-
 	const [budget, setBudget] = useState('');
-
 	const [housing, setHousing] = useState('');
-
 	const [position, setPosition] = useState('');
-
 	const [pets, setPets] = useState('');
-
 	const [personality, setPersonality] = useState('');
-
 	const [smoking, setSmoking] = useState('');
-
 	const [eatingHabits, setEatingHabits] = useState('');
-
 	const [partyHabits, setPartyHabits] = useState('');
-
 	const [bio, setBio] = useState('');
-
 	const [interests, setInterests] = useState('');
-
 	const [language, setLanguage] = useState('');
 	const [errorMessage, setErrorMessage] = useState('');
 
@@ -32,25 +21,15 @@ export default function PostForm({ savePost, post }) {
 		if (post) {
 			setCitys(post.city);
 			setImage(post.image);
-
 			setBudget(post.budget);
-
 			setHousing(post.housing);
-
 			setPosition(post.position);
-
 			setPets(post.pets);
-
 			setPersonality(post.personality);
-
 			setLanguage(post.language);
-
 			setSmoking(post.smoking);
-
 			setEatingHabits(post.eatingHabits);
-
 			setPartyHabits(post.partyHabits);
-
 			setBio(post.bio);
 			setInterests(post.interests);
 		}

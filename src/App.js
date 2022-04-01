@@ -14,8 +14,8 @@ import { usersRef } from './firebase-config';
 import { useNavigate } from 'react-router-dom';
 
 function App() {
-	const [showLoader, setShowLoader] = useState(true); // default value of the loader is true (loader displayed)
-	const [isAuth, setIsAuth] = useState(localStorage.getItem('isAuth')); // default value comes from localStorage
+	const [showLoader, setShowLoader] = useState(true);
+	const [isAuth, setIsAuth] = useState(localStorage.getItem('isAuth'));
 	const [isValid, setIsValid] = useState(false);
 	const navigate = useNavigate();
 
@@ -25,15 +25,13 @@ function App() {
 		onAuthStateChanged(auth, (user) => {
 			console.log(user);
 			if (user) {
-				//user is authenticated / signed in
-				setIsAuth(true); // set isAuth to true
-				localStorage.setItem('isAuth', true); // also, save isAuth in localStorage
+				setIsAuth(true);
+				localStorage.setItem('isAuth', true);
 				userIsValid(user);
 			} else {
-				// user is not authenticated / not signed in
 				setIsValid(false);
-				setIsAuth(false); // set isAuth to false
-				localStorage.removeItem('isAuth'); // remove isAuth from localStorage
+				setIsAuth(false);
+				localStorage.removeItem('isAuth');
 			}
 		});
 
@@ -48,23 +46,7 @@ function App() {
 
 				console.log(userData);
 
-				if (
-					userData.name &&
-					// userData.budget &&
-					// userData.cities &&
-					// userData.housing &&
-					// userData.student &&
-					userData.birthday
-					// userData.pets &&
-					// userData.personality &&
-					// userData.language &&
-					// userData.smoking &&
-					// userData.eatingHabits &&
-					// userData.partyHabits &&
-					// userData.guests &&
-					// userData.bio &&
-					// userData.interests
-				) {
+				if (userData.name && userData.birthday) {
 					setIsValid(true);
 				}
 				console.log(isValid);
@@ -72,7 +54,7 @@ function App() {
 		}
 	}, [auth.currentUser]);
 
-	// variable holding all private routes including the nav bar
+	// Private routes og navigation
 	const privateRoutes = (
 		<>
 			<Nav />
@@ -106,7 +88,7 @@ function App() {
 		</>
 	);
 
-	// variable holding all public routes without nav bar
+	// Offentlige routes og navigation
 	const publicRoutes = (
 		<>
 			<Nav />
@@ -132,8 +114,6 @@ function App() {
 		navigate(`/`);
 	}
 
-	// if user is authenticated, show privateRoutes, else show publicRoutes
-	// also, display or display not the <Loader/> based on showLoader state
 	return (
 		<main>
 			<div
